@@ -10,4 +10,7 @@
 
  - react-native-reanimated: Uma biblioteca para animações no React Native, que oferece um desempenho superior, permitindo criar animações fluidas e responsivas utilizando a API nativa de animações do React Native.
 
-![Foto](assets/foto.png)
+<p align="center">
+ <img src="assets/foto.png" alt="foto" width="300" />
+</p>
+
